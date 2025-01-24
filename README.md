@@ -4,5 +4,3 @@
 - Commit empty README.md file
 
 - feature-A created
-- fix-B
-- feature-C
