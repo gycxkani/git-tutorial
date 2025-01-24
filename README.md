@@ -5,4 +5,4 @@
 
 - feature-A created
 - fix-B
-- faeture-C
+- feature-C
