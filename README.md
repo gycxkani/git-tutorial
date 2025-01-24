@@ -5,4 +5,3 @@
 
 - feature-A created
 - fix-B
-- feature-A created
