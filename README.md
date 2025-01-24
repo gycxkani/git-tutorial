@@ -6,3 +6,4 @@
 - feature-A created
 - fix-B
 - feature-C
+- feature-D
